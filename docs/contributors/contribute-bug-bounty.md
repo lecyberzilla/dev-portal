@@ -14,3 +14,4 @@ Developers can also contribute to the advancement of Zilliqa by reporting securi
 We reward contributions with payouts of up to $5,000 depending on the nature of the reported vulnerability.
 
 Please refer to our [bugcrowd](https://bugcrowd.com/zilliqa) page for more information.
+THANKS
